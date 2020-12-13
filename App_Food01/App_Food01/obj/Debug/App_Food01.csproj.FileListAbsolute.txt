@@ -1,0 +1,12 @@
+C:\Users\은지\Documents\GitHub\VisualStudio_Jungbin\App_Food01\App_Food01\bin\Debug\App_Food01.exe.config
+C:\Users\은지\Documents\GitHub\VisualStudio_Jungbin\App_Food01\App_Food01\bin\Debug\App_Food01.exe
+C:\Users\은지\Documents\GitHub\VisualStudio_Jungbin\App_Food01\App_Food01\bin\Debug\App_Food01.pdb
+C:\Users\은지\Documents\GitHub\VisualStudio_Jungbin\App_Food01\App_Food01\obj\Debug\App_Food01.Form1.resources
+C:\Users\은지\Documents\GitHub\VisualStudio_Jungbin\App_Food01\App_Food01\obj\Debug\App_Food01.Properties.Resources.resources
+C:\Users\은지\Documents\GitHub\VisualStudio_Jungbin\App_Food01\App_Food01\obj\Debug\App_Food01.csproj.GenerateResource.cache
+C:\Users\은지\Documents\GitHub\VisualStudio_Jungbin\App_Food01\App_Food01\obj\Debug\App_Food01.csproj.CoreCompileInputs.cache
+C:\Users\은지\Documents\GitHub\VisualStudio_Jungbin\App_Food01\App_Food01\obj\Debug\App_Food01.exe
+C:\Users\은지\Documents\GitHub\VisualStudio_Jungbin\App_Food01\App_Food01\obj\Debug\App_Food01.pdb
+C:\Users\은지\Documents\GitHub\VisualStudio_Jungbin\App_Food01\App_Food01\obj\Debug\App_Food01.FirstCustomControl.resources
+C:\Users\은지\Documents\GitHub\VisualStudio_Jungbin\App_Food01\App_Food01\obj\Debug\App_Food01.csprojAssemblyReference.cache
+C:\Users\은지\Documents\GitHub\VisualStudio_Jungbin\App_Food01\App_Food01\obj\Debug\App_Food01.MySecondCustmControl.resources
